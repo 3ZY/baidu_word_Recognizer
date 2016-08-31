@@ -27,6 +27,6 @@
 		splitTrainData(), firstAnalysis() 为训练生成标签，其余均生成结果，及对结果优化
 		
 
-	解题思路：
+解题思路：
 
-	http://blog.csdn.net/three_fish/article/details/52382610
+http://blog.csdn.net/three_fish/article/details/52382610
